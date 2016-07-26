@@ -9,7 +9,7 @@ config = {
     'author_email':     'edsfocci@gmail.com',
     'version':          '0.0.1',
     'install_requires': ['nose'],
-    'packages':         ['NAME'],
+    'packages':         ['ex48'],
     'scripts':          [],
     'name':             'projectname'
 }
